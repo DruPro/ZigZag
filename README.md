@@ -1,5 +1,5 @@
 # ZigZag  
-<img src="ZigZag/zigzagdesc.png"
+<img src="https://github.com/DruPro/ZigZag/blob/main/20251102_1406_Reptile%20Mascot%20Logo_simple_compose_01k939mwh2fbnr57beb9kk5whe.png"
      alt="ZigZag — state-driven behavioral system mascot and header"
      loading="lazy"
      width="1200"
