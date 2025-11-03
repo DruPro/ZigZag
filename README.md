@@ -2,8 +2,7 @@
 <img src="https://github.com/DruPro/ZigZag/blob/main/zigzagdesc.png"
      alt="ZigZag — state-driven behavioral system mascot and header"
      loading="lazy"
-     width="800"
-     height="800"
+     width="400"
      style="background:#ffffff; display:block;" />
 
 ## Overview  
