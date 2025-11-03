@@ -1,5 +1,10 @@
 # ZigZag  
-![Logo](20251102_1406_Reptile%20Mascot%20Logo_simple_compose_01k939mwh2fbnr57beb9kk5whe.png)
+<img src="ZigZag/zigzagdesc.png"
+     alt="ZigZag — state-driven behavioral system mascot and header"
+     loading="lazy"
+     width="1200"
+     height="800"
+     style="background:#ffffff; display:block;" />
 
 ## Overview  
 ZigZag is a **state-driven behavioral system** framework designed to enable entities (agents, objects, modules) to transition through well-defined states and adapt their behavior based on those states.  
